@@ -1,12 +1,12 @@
 # Flight Arrival Analysis
  
-# Enviroment requirements: <br>
+### Enviroment requirements: <br>
 Pandas <br>
 sklearn <br>
 matplotlib <br>
 seaborn <br>
 
-# Dataset Column	Description<br>
+### Dataset Column	Description<br>
 
 YEAR	        Year that the flight took place<br>
 QUARTER	        Quarter that the flight took place (1-4)<br>
