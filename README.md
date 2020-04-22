@@ -1,6 +1,6 @@
 # Flight Arrival Analysis
  
-### Enviroment requirements: <br>
+### Environment requirements: <br>
 Pandas <br>
 sklearn <br>
 matplotlib <br>
